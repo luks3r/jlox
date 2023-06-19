@@ -4,5 +4,5 @@ JVM-based Lox language implementation written in Kotlin.
 
 ## Credits
 
-- (https://craftinginterpreters.com/)[Crafting Interpreters]
+- [Crafting Interpreters](https://craftinginterpreters.com/)
 - "Compilers: Principles, Techniques, and Tools" aka Dragon Book 
